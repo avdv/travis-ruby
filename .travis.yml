@@ -3,3 +3,4 @@ language:
 
 script:
   - ruby atty.rb
+  - bundle exec ruby atty.rb
