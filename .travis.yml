@@ -4,3 +4,5 @@ language:
 script:
   - ruby atty.rb
   - bundle exec ruby atty.rb
+  - bundle exec rubocop
+  - bundle exec ruby atty.rb
